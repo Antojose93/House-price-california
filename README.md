@@ -4,6 +4,7 @@ Este proyecto es una solución a un problema planteado por Kaggle, desarrollado 
 
 Puedes revisar el análisis exploratorio de los Datos en: [Google Colab](https://colab.research.google.com/drive/154LH2L0mE58gyZHrKbv-rr0B4JkgaN4B?usp=sharing)
 
+También puedes ver una demostración del código en: [demo en Streamlit](https://antojose93-house-price-california-main-xygz1i.streamlit.app/)
 
 ## Descripción
 
