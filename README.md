@@ -6,6 +6,8 @@ Puedes revisar el análisis exploratorio de los Datos en: [Google Colab](https:/
 
 También puedes ver una demostración del código en: [demo en Streamlit](https://antojose93-house-price-california-main-xygz1i.streamlit.app/)
 
+Para ver el problema completo visita:[Kaggle](https://www.kaggle.com/datasets/shibumohapatra/house-price/data)
+
 ## Descripción
 
 La Oficina del Censo de los Estados Unidos ha publicado los Datos del Censo de California, que constan de 10 tipos de métricas como la población, ingreso medio, precio medio de la vivienda, entre otros, para cada grupo de manzanas en California. El conjunto de datos también sirve como entrada para la delineación del proyecto e intenta especificar los requisitos funcionales y no funcionales para el mismo.
